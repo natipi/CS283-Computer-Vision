@@ -1,0 +1,14 @@
+CS283 Final Project
+Natalia Pacheco-Tallaj and Toby Satterthwaite
+
+The following external packages are used and must be installed in order to run our code:
+- numpy
+- matplotlib
+- Pillow
+- scipy
+- scikitlearn
+- matplotlib
+
+We present our final project in the form of a single Jupyter notebook (CS283 Final Project.ipynb). In order to reproduce our results, simply step through the notebook's cells. It is important to re-run the second cell, however, before running each of the final three cells which test the model on different inputs.
+
+A small subsample of the data set has been included in the "ExtendedYaleB" directory. The entire data set can be torrented from: http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html
